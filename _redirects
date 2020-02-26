@@ -1,9 +1,5 @@
 # *** Warning! Your custom domain is not using HTTPS yet ***
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
-# Redirect domain aliases to primary domain
-http://www.royaltex-weave.com/* http://royaltex-weave.com/:splat 301!
-http://test.royaltex-weave.com/* http://royaltex-weave.com/:splat 301!
-
-# Optional: Redirect default Netlify subdomain to primary domain
+# Redirect default Netlify subdomain to primary domain
 http://wonderful-wing-ae4ce5.netlify.com/* http://royaltex-weave.com/:splat 301!
