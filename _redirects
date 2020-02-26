@@ -1,0 +1,5 @@
+https://royaltex-weave.com/* https://test.royaltex-weave.com/:splat 301!
+https://www.royaltex-weave.com/* https://test.royaltex-weave.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://fervent-jones-d49a97.netlify.com/* https://test.royaltex-weave.com/:splat 301!
